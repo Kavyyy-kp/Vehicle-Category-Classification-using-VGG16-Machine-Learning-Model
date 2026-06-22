@@ -166,10 +166,10 @@ The demonstration showcases:
 
 | Name | Student ID |
 |--------|------------|
-| Revathi A/P Thiyagarajan | A202248 |
-| Nancy Anne | A202459 |
 | Kavi Priya A/P Balasupramaniam | A202660 |
+| Nancy Anne | A202459 |
 | Jeslyn A/P A Saminathan | A202747 |
+| Revathi A/P Thiyagarajan | A202248 |
 
 Universiti Kebangsaan Malaysia (UKM)
 
