@@ -1,0 +1,2 @@
+# Vehicle-Category-Classification-using-VGG16-Machine-Learning-Model
+Developed a vehicle classification system using VGG16 transfer learning to categorize cars, motorcycles, planes, ships, and trains. Implemented image preprocessing, data augmentation, and model fine-tuning, achieving 97% training accuracy and 96% validation accuracy. Built an interactive Streamlit-based interface for real-time predictions.
